@@ -1,6 +1,6 @@
 const { initializeDB } = require("./db.connect");
 const BooksData = require("./book.model");
-const fs = require("fs");
+// const fs = require("fs");
 
 const express = require("express");
 const cors = require("cors");
@@ -15,38 +15,38 @@ const corsOptions = {
 
 initializeDB();
 
-const jsonData = fs.readFileSync("book.json", "utf-8");
+// const jsonData = fs.readFileSync("book.json", "utf-8");
 
-const booksData = JSON.parse(jsonData)
+// const booksData = JSON.parse(jsonData)
 
-function seedData(){
-    try{
-        for(const bookData of booksData){
-            const newBook = new BooksData({
-                 name: bookData.name,
-                 author: bookData.author,
-                 price: bookData.price,
-                 image : bookData.image,
-                 category: bookData.category,
-                 genre: bookData.genre,
-                 rating: bookData.rating,
-                 isbn: bookData.isbn,
-                 language: bookData.language,
-                 pages: bookData.pages,
-                 publishYear: bookData.publishYear,
-                 publisher: bookData.publisher,
-                 subGenre: bookData.subGenre,
-                 summary: bookData.summary
-            });
-            // console.log(newBook.name)
-            newBook.save();
-        }
-    } catch(error){
-        console.log("Error in seeding the data", error);
-    }
-}
+// function seedData(){
+//     try{
+//         for(const bookData of booksData){
+//             const newBook = new BooksData({
+//                  name: bookData.name,
+//                  author: bookData.author,
+//                  price: bookData.price,
+//                  image : bookData.image,
+//                  category: bookData.category,
+//                  genre: bookData.genre,
+//                  rating: bookData.rating,
+//                  isbn: bookData.isbn,
+//                  language: bookData.language,
+//                  pages: bookData.pages,
+//                  publishYear: bookData.publishYear,
+//                  publisher: bookData.publisher,
+//                  subGenre: bookData.subGenre,
+//                  summary: bookData.summary
+//             });
+//             // console.log(newBook.name)
+//             newBook.save();
+//         }
+//     } catch(error){
+//         console.log("Error in seeding the data", error);
+//     }
+// }
 
-// seedData();
+// // seedData();
 
 // get all books by booksData from the db.
 
