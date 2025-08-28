@@ -62,9 +62,9 @@ async function readAllBooks(){
 
 app.get("/books", async(req, res) => {
     try{
-        const allMeets = await readAllBooks()
-        if(allMeets){
-            res.json(allMeets)
+        const booksAll = await readAllBooks()
+        if(booksAll){
+            res.json(booksAll)
         } else{
             res.status(404).json({error: "Books not found."})
         }
