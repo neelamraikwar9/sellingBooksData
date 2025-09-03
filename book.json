@@ -2,8 +2,8 @@
   {
   "name": "The Monk Who Sold His Ferrari",
   "author": "Robin S. Sharma",
-  "price": "₹219",
-  "image": "https://i.imghippo.com/files/HvWf4993TR.png",
+  "price": "₹450",
+  "image": "https://i.imghippo.com/files/SU1232REQ.png",
   "category": "Non-Fiction",
   "genre": "Self-Help",
   "rating": "3.8/5",
@@ -13,15 +13,19 @@
   "publishYear": "2003",
   "publisher": "Jaico Publishing House",
   "subGenre": "Business Fable / Spirituality",
-  "summary": "The story follows Julian Mantle, a high-powered lawyer whose heart attack prompts him to abandon his life of material success. He journeys to India in search of deeper meaning and meets Himalayan sages who impart seven timeless virtues that transform his life—and offer guidance on how to live with courage, purpose, discipline, and peace."
+  "summary": "The story follows Julian Mantle, a high-powered lawyer whose heart attack prompts him to abandon his life of material success. He journeys to India in search of deeper meaning and meets Himalayan sages who impart seven timeless virtues that transform his life—and offer guidance on how to live with courage, purpose, discipline, and peace.",
+  "discount": "30% off",
+  "discountPrice": "₹135",
+  "salePrice": "₹315",
+  "deliveryCharges": "Free"
  },
 
 
  {
   "name": "Harry Potter Box Set: The Complete Collection",
   "author": "J.K. Rowling",
-  "price": "₹1,491",
-  "image": "https://i.imghippo.com/files/oQK5291VJU.png",
+  "price": "₹2,491",
+  "image": "https://i.imghippo.com/files/Vk8549COo.png",
   "category": "Young Adult",
   "genre": "Fantasy",
   "rating": "4.73/5",
@@ -31,15 +35,19 @@
   "publishYear": "2014",
   "publisher": "Bloomsbury Children's Books",
   "subGenre": "Fantasy Adventure / Juvenile Fiction",
-  "summary": "This box set brings together all seven novels of the Harry Potter series in a beautifully packaged slipcase. Written by J.K. Rowling, the story follows a young wizard, Harry Potter, as he learns the truth about his heritage and confronts the dark wizard who nearly killed him. Packed with magic, friendship, courage, and mystery, the series has become a global phenomenon beloved by readers of all ages."
+  "summary": "This box set brings together all seven novels of the Harry Potter series in a beautifully packaged slipcase. Written by J.K. Rowling, the story follows a young wizard, Harry Potter, as he learns the truth about his heritage and confronts the dark wizard who nearly killed him. Packed with magic, friendship, courage, and mystery, the series has become a global phenomenon beloved by readers of all ages.",
+  "discount":  "50% off",
+  "discountPrice": "₹1245.5",
+  "salePrice": "₹1245.5",
+  "deliveryCharges": "Free"
  },
 
 
   {
   "name": "The Power of Your Subconscious Mind",
   "author": "Joseph Murphy",
-  "price": "₹160",
-  "image": "https://i.imghippo.com/files/dCeZ7866qKo.png",
+  "price": "₹260",
+  "image": "https://i.imghippo.com/files/bLO3971U.png",
   "category": "Non-Fiction",
   "genre": "Self-Help",
   "rating": "3.5/5",
@@ -49,15 +57,19 @@
   "publishYear": "2016",
   "publisher": "Book Tree",
   "subGenre": "Spiritual Self-Help / Affirmation",
-  "summary": "A timeless guide emphasizing how to harness the subconscious through techniques like affirmations and visualization to improve all facets of life—from health and relationships to success—using a blend of scientific insight and spiritual wisdom."  
+  "summary": "A timeless guide emphasizing how to harness the subconscious through techniques like affirmations and visualization to improve all facets of life—from health and relationships to success—using a blend of scientific insight and spiritual wisdom.",
+  "discount": "20% off",
+  "discountPrice": "₹52",
+  "salePrice": "₹208", 
+  "deliveryCharges": "Free"
 },
 
 
 {
   "name": "The Power of Habit",
   "author": "Charles Duhigg",
-  "price": "₹177",
-  "image": "https://i.imghippo.com/files/JQ3534Y.png",
+  "price": "₹277",
+  "image": "https://i.imghippo.com/files/W5789EKc.png",
   "category": "Non-Fiction",
   "genre": "Business",
   "rating": "4.3/5",
@@ -67,14 +79,19 @@
   "publishYear": "2012",
   "publisher": "Random House Trade Paperbacks",
   "subGenre": "Behavioral Science / Self‑Help",
-  "summary": "Charles Duhigg explores the neurological 'habit loop'—cue, routine, reward—and demonstrates how habits shape our lives, organizations, and societies. Through scientific research and engaging stories, he reveals how identifying and changing keystone habits can lead to personal and organizational transformation, applying this knowledge from individuals to companies like Starbucks and Alcoa."  
+  "summary": "Charles Duhigg explores the neurological 'habit loop'—cue, routine, reward—and demonstrates how habits shape our lives, organizations, and societies. Through scientific research and engaging stories, he reveals how identifying and changing keystone habits can lead to personal and organizational transformation, applying this knowledge from individuals to companies like Starbucks and Alcoa.",
+  "discount":  "10% off",
+  "discountPrice": "₹27.7",
+  "salePrice": "₹250",
+  "deliveryCharges": "Free"
+  
 },
 
 
 {
   "name": "The Intelligent Investor",
   "author": "Benjamin Graham",
-  "price": "₹240",
+  "price": "₹340",
   "image": "https://i.imghippo.com/files/Ryxn3514iGc.png",
   "category": "Non-Fiction",
   "genre": "Finance",
@@ -85,15 +102,19 @@
   "publishYear": "1949 (Latest edition: 2024)",
   "publisher": "Harper Business",
   "subGenre": "Value Investing / Behavioral Finance",
-  "summary": "Known as the definitive work on value investing, this classic offers timeless guidance on achieving long-term financial success. Benjamin Graham emphasizes principles like 'margin of safety,' distinguishing investment from speculation, and leveraging market psychology (e.g., the 'Mr. Market' allegory). The latest updated edition includes commentary by Jason Zweig, bringing historical wisdom into contemporary relevance."
+  "summary": "Known as the definitive work on value investing, this classic offers timeless guidance on achieving long-term financial success. Benjamin Graham emphasizes principles like 'margin of safety,' distinguishing investment from speculation, and leveraging market psychology (e.g., the 'Mr. Market' allegory). The latest updated edition includes commentary by Jason Zweig, bringing historical wisdom into contemporary relevance.",
+  "discount":  "30% off",
+  "discountPrice": "₹102",
+  "salePrice": "₹238",
+  "deliveryCharges": "Free"
 },
 
 
 {
   "name": "Sapiens: A Brief History of Humankind",
   "author": "Yuval Noah Harari",
-  "price": "₹213",
-  "image": "https://i.imghippo.com/files/ptWV1680qL.png",
+  "price": "₹500",
+  "image": "https://i.imghippo.com/files/uZh5813pfk.png",
   "category": "Non-Fiction",
   "genre": "History",
   "rating": "3.9/5",
@@ -103,15 +124,19 @@
   "publishYear": "2011 (Hebrew); 2015 (English paperback)",
   "publisher": "Dvir Publishing House (Israel); Harper (U.S. edition)",
   "subGenre": "World History / Popular Science",
-  "summary": "Yuval Noah Harari presents a sweeping narrative of humanity's journey—from the Cognitive Revolution through the Agricultural, Unification, and Scientific Revolutions—arguing that shared myths like religion, money, and political structures enabled large-scale cooperation. With a blend of biology, social philosophy, and anthropology, 'Sapiens' examines how Homo sapiens became the dominant species and how modern society shapes—and threatens—our future."
+  "summary": "Yuval Noah Harari presents a sweeping narrative of humanity's journey—from the Cognitive Revolution through the Agricultural, Unification, and Scientific Revolutions—arguing that shared myths like religion, money, and political structures enabled large-scale cooperation. With a blend of biology, social philosophy, and anthropology, 'Sapiens' examines how Homo sapiens became the dominant species and how modern society shapes—and threatens—our future.",
+  "discount": "25% off",
+  "discountPrice": "₹125",
+  "salePrice": "₹375",
+  "deliveryCharges": "Free"
 },
 
 
   {
   "name": "The 7 Habits of Highly Effective People",
   "author": "Stephen R. Covey",
-  "price": "₹166",
-  "image": "https://i.imghippo.com/files/xPUx6144rH.png",
+  "price": "₹466",
+  "image": "https://i.imghippo.com/files/aw8453Us.png",
   "category": "Non-Fiction",
   "genre": "Self-Help",
   "rating": "3/5",
@@ -121,15 +146,19 @@
   "publishYear": "2013 (Anniversary Edition)",
   "publisher": "Simon & Schuster",
   "subGenre": "Personal Development / Leadership",
-  "summary": "This timeless self-help classic introduces seven core principles—rooted in character ethics—that guide personal and professional effectiveness. Covey emphasizes proactive behavior, vision-based leadership, priority management, empathetic communication, collaboration, and continuous renewal. This Anniversary Edition includes modern insights from Sean Covey, making the principles relevant for today's audience."
+  "summary": "This timeless self-help classic introduces seven core principles—rooted in character ethics—that guide personal and professional effectiveness. Covey emphasizes proactive behavior, vision-based leadership, priority management, empathetic communication, collaboration, and continuous renewal. This Anniversary Edition includes modern insights from Sean Covey, making the principles relevant for today's audience.",
+  "discount": "30% off",
+  "discountPrice": "₹139.8",
+  "salePrice": "₹327.8",
+  "deliveryCharges": "Free"
   },
 
 
  {
   "name": "Breaking Dawn",
   "author": "Stephenie Meyer",
-  "price": "₹322",
-  "image": "https://i.imghippo.com/files/IsF7723BCM.png",
+  "price": "₹400",
+  "image": "https://i.imghippo.com/files/zVqp3499KGg.png",
   "category": "Young Adult",
   "genre": "Romance",
   "rating": "2/5",
@@ -139,14 +168,18 @@
   "publishYear": "2008",
   "publisher": "Little, Brown and Company",
   "subGenre": "Paranormal Romance / Vampire Fiction",
-  "summary": "Bella Swan marries Edward Cullen and becomes pregnant under extraordinary and dangerous circumstances. Her accelerated, supernatural pregnancy threatens her life, but after a near-fatal birth and transformation into a vampire, she must face the consequences—especially from the Volturi, the vampire council who see her uniquely hybrid daughter as a threat. The story explores themes of love, sacrifice, and acceptance, ultimately resolving in a tense but peaceful alliance."  
+  "summary": "Bella Swan marries Edward Cullen and becomes pregnant under extraordinary and dangerous circumstances. Her accelerated, supernatural pregnancy threatens her life, but after a near-fatal birth and transformation into a vampire, she must face the consequences—especially from the Volturi, the vampire council who see her uniquely hybrid daughter as a threat. The story explores themes of love, sacrifice, and acceptance, ultimately resolving in a tense but peaceful alliance.",
+  "discount": "20% off",
+  "discountPrice": "₹80",
+  "salePrice": "₹320", 
+  "deliveryCharges": "Free"
  },
 
  {
   "name": "New Moon",
   "author": "Stephenie Meyer",
-  "price": "₹389",
-  "image": "https://i.imghippo.com/files/LiF9926Q.png",
+  "price": "₹490",
+  "image": "https://i.imghippo.com/files/kSs6564Fk.png",
   "category": "Young Adult",
   "genre": "Fantasy",
   "rating": "3/5",
@@ -156,15 +189,19 @@
   "publishYear": "2006",
   "publisher": "Little, Brown Books for Young Readers",
   "subGenre": "Paranormal Romance / Vampire Fiction",
-  "summary": "In the second installment of the Twilight Saga, heartbroken Bella Swan struggles after Edward's abrupt departure. Her descent into depression is interrupted by her deepening friendship with Jacob Black—and haunting supernatural developments. As the Volturi vampire council emerges and Wolf pack tensions escalate, Bella navigates love, loss, and dangerous transformations."
+  "summary": "In the second installment of the Twilight Saga, heartbroken Bella Swan struggles after Edward's abrupt departure. Her descent into depression is interrupted by her deepening friendship with Jacob Black—and haunting supernatural developments. As the Volturi vampire council emerges and Wolf pack tensions escalate, Bella navigates love, loss, and dangerous transformations.",
+  "discount":  "20% off",
+  "discountPrice": "₹98",
+  "salePrice": "₹392",
+  "deliveryCharges": "Free"
  },
 
 
  {
   "name": "The Kite Runner",
   "author": "Khaled Hosseini",
-  "price": "₹203",
-  "image": "https://i.imghippo.com/files/lpyF9294Dvc.png",
+  "price": "₹300",
+  "image": "https://i.imghippo.com/files/xxE9836iUs.png",
   "category": "Fiction",
   "genre": "Literary Fiction",
   "rating": "4/5",
@@ -174,14 +211,18 @@
   "publishYear": "2003",
   "publisher": "Riverhead Books",
   "subGenre": "Historical Coming-of-Age Drama",
-  "summary": "Amir, a privileged boy from Kabul, betrays his loyal friend Hassan during a childhood kite-fighting tournament. Haunted by guilt, Amir and his father flee to America following the Soviet invasion. Years later, seeking redemption, Amir returns to Taliban-controlled Afghanistan to rescue Hassan's son. It's a powerful story of friendship, betrayal, and the long path toward forgiveness."
+  "summary": "Amir, a privileged boy from Kabul, betrays his loyal friend Hassan during a childhood kite-fighting tournament. Haunted by guilt, Amir and his father flee to America following the Soviet invasion. Years later, seeking redemption, Amir returns to Taliban-controlled Afghanistan to rescue Hassan's son. It's a powerful story of friendship, betrayal, and the long path toward forgiveness.",
+  "discount": "10% off" ,
+  "discountPrice": "₹30",
+  "salePrice": "₹270",
+  "deliveryCharges": "Free"
  },
 
  {
   "name": "Zero to One: Notes on Startups, or How to Build the Future",
   "author": "Peter Thiel with Blake Masters",
-  "price": "₹169",
-  "image": "https://i.imghippo.com/files/vvcA4217pZA.png",
+  "price": "₹250",
+  "image": "https://i.imghippo.com/files/lnC2548ueI.png",
   "category": "Non-Fiction",
   "genre": "Entrepreneurship",
   "rating": "4.9/5",
@@ -191,15 +232,19 @@
   "publishYear": "2014",
   "publisher": "Crown Business",
   "subGenre": "Startup Strategy / Innovation",
-  "summary": "A manifesto for innovation, \"Zero to One\" argues that true progress comes from creating new things rather than competing in existing markets. Drawing on Thiel's experience as PayPal co-founder and early Facebook investor, this book presents contrarian insights on building monopolies, escaping competition, and thinking for yourself to shape the future."
+  "summary": "A manifesto for innovation, \"Zero to One\" argues that true progress comes from creating new things rather than competing in existing markets. Drawing on Thiel's experience as PayPal co-founder and early Facebook investor, this book presents contrarian insights on building monopolies, escaping competition, and thinking for yourself to shape the future.",
+  "discount":  "20% off",
+  "discountPrice": "₹50",
+  "salePrice": "₹200",
+  "deliveryCharges": "Free"
  },
 
 
   {
   "name": "The 48 Laws of Power",
   "author": "Robert Greene",
-  "price": "₹249",
-  "image": "https://i.imghippo.com/files/On3661Iqk.png",
+  "price": "₹300",
+  "image": "https://i.imghippo.com/files/cmm6448oe.png",
   "category": "Non-Fiction",
   "genre": "Self-Help",
   "rating": "5/5",
@@ -209,7 +254,12 @@
   "publishYear": "2000",
   "publisher": "Penguin Books",
   "subGenre": "Power Dynamics / Strategy",
-  "summary": "This bestseller distills 3,000 years of power dynamics into 48 'laws' drawn from history, philosophy, and real-life examples—offering profound yet controversial insights on manipulation, survival, and influence."  
+  "summary": "This bestseller distills 3,000 years of power dynamics into 48 'laws' drawn from history, philosophy, and real-life examples—offering profound yet controversial insights on manipulation, survival, and influence.",
+  "discount":  "10% off",
+  "discountPrice": "₹30",
+  "salePrice": "₹270",
+  "deliveryCharges": "Free"
+
   },
 
 
@@ -227,14 +277,18 @@
   "publishYear": "2009",
   "publisher": "Bantam Press (UK); Delacorte Press (US)",
   "subGenre": "Action Thriller / Crime Thriller",
-  "summary": "Jack Reacher's instincts go into overdrive when he notices a suspicious woman on a New York subway—only for her to commit suicide in front of him. Unable to let it go, Reacher investigates, uncovering a dangerous web of espionage, federal cover-ups, and political intrigue. Racing through Manhattan, he confronts powerful adversaries shielding a Cold War-era secret tied to a controversial military operation."
+  "summary": "Jack Reacher's instincts go into overdrive when he notices a suspicious woman on a New York subway—only for her to commit suicide in front of him. Unable to let it go, Reacher investigates, uncovering a dangerous web of espionage, federal cover-ups, and political intrigue. Racing through Manhattan, he confronts powerful adversaries shielding a Cold War-era secret tied to a controversial military operation.",
+  "discount":  "20% off",
+  "discountPrice": "₹40",
+  "salePrice": "₹160",
+  "deliveryCharges": "Free"
   },
 
   {
   "name": "The God of Small Things",
   "author": "Arundhati Roy",
   "price": "₹206",
-  "image": "https://i.imghippo.com/files/oQx8164aXc.png",
+  "image": "https://i.imghippo.com/files/Bsk1747Bpk.png",
   "category": "Fiction",
   "genre": "Literary Fiction",
   "rating": "4.4/5",
@@ -244,14 +298,18 @@
   "publishYear": "1997",
   "publisher": "Random House (USA), HarperCollins (UK), Penguin India",
   "subGenre": "Postcolonial Family Saga",
-  "summary": "Arundhati Roy's Booker Prize-winning debut follows twins Estha and Rahel in Kerala's Syrian Christian community. As childhood memories and adult regrets intertwine, the novel explores caste, forbidden love, and entangled family secrets with lush, evocative prose—revealing how the smallest events can resonate across lifetimes."
+  "summary": "Arundhati Roy's Booker Prize-winning debut follows twins Estha and Rahel in Kerala's Syrian Christian community. As childhood memories and adult regrets intertwine, the novel explores caste, forbidden love, and entangled family secrets with lush, evocative prose—revealing how the smallest events can resonate across lifetimes.",
+  "discount":  "15% off",
+  "discountPrice": "₹30.9",
+  "salePrice": "₹175",
+  "deliveryCharges": "Free"
 },
 
 {
   "name": "Midnight's Children",
   "author": "Salman Rushdie",
-  "price": "₹329",
-  "image": "https://i.imghippo.com/files/CBX6066APA.png",
+  "price": "₹450",
+  "image": "https://i.imghippo.com/files/HMQT5088rY.png",
   "category": "Fiction",
   "genre": "Historical",
   "rating": "4.4/5",
@@ -261,14 +319,18 @@
   "publishYear": "1981 (1981 original; 2013 reissue edition)",
   "publisher": "Jonathan Cape (original); Vintage Publishing (reissue)",
   "subGenre": "Postcolonial Magic Realism",
-  "summary": "Born at the very moment of India's Independence, Saleem Sinai finds himself mystically \"handcuffed to history.\" Gifted with telepathic powers connecting him to other children born in that midnight hour, his fate becomes inseparable from that of the newly born nation. A sweeping magical realism epic, the novel chronicles India's tumultuous evolution through war, political upheaval, and personal transformation."
+  "summary": "Born at the very moment of India's Independence, Saleem Sinai finds himself mystically 'handcuffed to history.' Gifted with telepathic powers connecting him to other children born in that midnight hour, his fate becomes inseparable from that of the newly born nation. A sweeping magical realism epic, the novel chronicles India's tumultuous evolution through war, political upheaval, and personal transformation.",
+  "discount":  "50% off",
+  "discountPrice": "₹225",
+  "salePrice": "₹225",
+  "deliveryCharges": "Free"
 },
 
   {
     "name": "A Suitable Boy",
     "author": "Vikram Seth",
-    "price": "₹1,626",
-    "image": "https://i.imghippo.com/files/aLe1228qDk.png",
+    "price": "₹600",
+    "image": "https://i.imghippo.com/files/BMp2984onc.png",
     "category": "Fiction",
     "genre": "Historical",
     "rating": "3.3/5",
@@ -278,14 +340,18 @@
     "publishYear": "1993",
     "publisher": "HarperCollins (US); Phoenix House (UK)",
     "subGenre": "Post-Partition Social Epic",
-    "summary": "One of the longest novels written in English, 'A Suitable Boy' is a grand tapestry of life in post-Partition India. It follows four families over a turbulent 18 months, centering around a mother's quest to find a suitable husband for her daughter and weaving together romance, politics, land reform, and social change."
+    "summary": "One of the longest novels written in English, 'A Suitable Boy' is a grand tapestry of life in post-Partition India. It follows four families over a turbulent 18 months, centering around a mother's quest to find a suitable husband for her daughter and weaving together romance, politics, land reform, and social change.",
+    "discount":  "30% off",
+    "discountPrice": "₹180",
+    "salePrice": "₹420",
+    "deliveryCharges": "Free"
   },
 
   {
     "name": "Train to Pakistan",
     "author": "Khushwant Singh",
-    "price": "₹250",
-    "image": "https://i.imghippo.com/files/Ogdi8919oX.png",
+    "price": "₹700",
+    "image": "https://i.imghippo.com/files/HDt9197ac.png",
     "category": "Fiction",
     "genre": "Historical",
     "rating": "5/5",
@@ -295,14 +361,18 @@
     "publishYear": "1956",
     "publisher": "Chatto & Windus; Penguin India",
     "subGenre": "Partition Drama",
-    "summary": "Set against the backdrop of the 1947 Partition, this powerful novel depicts the transformation of peaceful Mano Majra village into a site of communal brutality. Through the lens of Juggut Singh and his forbidden love, the story humanizes one of India's darkest chapters and remains a poignant testament to friendship, loyalty, and moral courage."
+    "summary": "Set against the backdrop of the 1947 Partition, this powerful novel depicts the transformation of peaceful Mano Majra village into a site of communal brutality. Through the lens of Juggut Singh and his forbidden love, the story humanizes one of India's darkest chapters and remains a poignant testament to friendship, loyalty, and moral courage.",
+    "discount": "20% off",
+    "discountPrice": "₹140",
+    "salePrice": "₹560",
+    "deliveryCharges": "Free"
   },
 
    {
     "name": "The Giver",
     "author": "Lois Lowry",
-    "price": "200",
-    "image": "https://i.imghippo.com/files/Lte9140BQ.png",
+    "price": "800",
+    "image": "https://i.imghippo.com/files/UyZx5288ME.png",
     "category": "Young Adult",
     "genre": "Science",
     "rating": "2/5",
@@ -312,14 +382,18 @@
     "publishYear": "1993",
     "publisher": "Houghton Mifflin Harcourt",
     "subGenre": "Dystopian / Philosophical Fiction",
-    "summary": "In a seemingly utopian society where emotions and memories are suppressed, 12-year-old Jonas is selected to be the Receiver of Memory. He discovers the dark realities beneath his community's serene facade and must grapple with pain, joy, and choice. Winner of the Newbery Medal, the novel probes deep ethical questions about humanity."
+    "summary": "In a seemingly utopian society where emotions and memories are suppressed, 12-year-old Jonas is selected to be the Receiver of Memory. He discovers the dark realities beneath his community's serene facade and must grapple with pain, joy, and choice. Winner of the Newbery Medal, the novel probes deep ethical questions about humanity.",
+    "discount":  "50% off",
+    "discountPrice": "₹400",
+    "salePrice": "₹400", 
+    "deliveryCharges": "Free"
   },
 
   {
     "name": "How I Taught My Grandmother to Read and Other Stories",
     "author": "Sudha Murty",
-    "price": "₹185.00",
-    "image": "https://i.imghippo.com/files/dSPC3975xU.png",
+    "price": "₹285",
+    "image": "https://i.imghippo.com/files/Lcw9684TBs.png",
     "category": "Young Adult",
     "genre": "Family Fiction",
     "rating": "4.7/5",
@@ -329,14 +403,18 @@
     "publishYear": "2004",
     "publisher": "Puffin Books (Penguin India)",
     "subGenre": "Intergenerational Story / Heartwarming Tales",
-    "summary": "A touching collection of short stories, including the title tale about a granddaughter teaching her illiterate grandmother to read—delivered with warmth, simplicity, and insight into family bonds and respect."
+    "summary": "A touching collection of short stories, including the title tale about a granddaughter teaching her illiterate grandmother to read—delivered with warmth, simplicity, and insight into family bonds and respect.",
+    "discount":  "30% off",
+    "discountPrice": "₹85.5",
+    "salePrice": "₹199.5",
+    "deliveryCharges": "Free"
   },
 
     {
     "name": "Grandparents' Bag of Stories",
     "author": "Sudha Murty",
-    "price": "₹157.00",
-    "image": "https://i.imghippo.com/files/VSRZ2750qx.png",
+    "price": "₹355",
+    "image": "https://i.imghippo.com/files/rA8367otA.png",
     "category": "Young Adult",
     "genre": "Moral Fiction",
     "rating": "4.6/5",
@@ -346,7 +424,11 @@
     "publishYear": "2003",
     "publisher": "Penguin India",
     "subGenre": "Folk Tales / Moral Stories",
-    "summary": "An illustrated collection of short folk tales filled with wisdom, humor, and life lessons—reminiscent of stories shared by grandparents, comforting and engaging for young readers."
+    "summary": "An illustrated collection of short folk tales filled with wisdom, humor, and life lessons—reminiscent of stories shared by grandparents, comforting and engaging for young readers.",
+    "discount": "40% off",
+    "discountPrice": "₹142",
+    "salePrice": "₹213",
+    "deliveryCharges": "Free"
   }
 
 ]

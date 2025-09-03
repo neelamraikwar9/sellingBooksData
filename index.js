@@ -1,5 +1,6 @@
 const { initializeDB } = require("./db.connect");
 const BooksData = require("./book.model");
+console.log(BooksData, "checking booksData")
 // const fs = require("fs");
 
 const express = require("express");
@@ -16,8 +17,10 @@ const corsOptions = {
 initializeDB();
 
 // const jsonData = fs.readFileSync("book.json", "utf-8");
+// console.log(jsonData, "checking jsonData")
 
 // const booksData = JSON.parse(jsonData)
+// console.log(booksData, "Checking booksData")
 
 // function seedData(){
 //     try{
@@ -36,9 +39,13 @@ initializeDB();
 //                  publishYear: bookData.publishYear,
 //                  publisher: bookData.publisher,
 //                  subGenre: bookData.subGenre,
-//                  summary: bookData.summary
+//                  summary: bookData.summary,
+//                  discount: bookData.discount,
+//                  discountPrice: bookData.discountPrice,
+//                  salePrice: bookData.salePrice,
+//                  deliveryCharges: bookData.deliveryCharges
 //             });
-//             // console.log(newBook.name)
+//             console.log(newBook.name)
 //             newBook.save();
 //         }
 //     } catch(error){
@@ -46,7 +53,8 @@ initializeDB();
 //     }
 // }
 
-// // seedData();
+// seedData();
+
 
 // get all books by booksData from the db.
 
@@ -83,7 +91,6 @@ async function getBooksById(bookId){
         throw error
     }
 }
-
 // getBooksById("68a9e1b504166310e55326c2")
 
 app.get("/books/getBooks/:bookId", async(req, res) => {
@@ -102,6 +109,7 @@ app.get("/books/getBooks/:bookId", async(req, res) => {
 })
 
 // get booksData by categories from the db.
+
 async function getBooksCategories(booksByCategory){
     try{
         const categoryBooks = await BooksData.find({category: booksByCategory})
@@ -113,6 +121,8 @@ async function getBooksCategories(booksByCategory){
     }
 }
 // getBooksCategories("Fiction")
+
+
 
 app.get("/books/:booksByCategory", async(req, res) => {
     try{
@@ -130,7 +140,31 @@ app.get("/books/:booksByCategory", async(req, res) => {
 })
 
 
+// async function deleteBook(BookId){
+//     try{
+//         const deleteBook = await BooksData.findByIdAndDelete(BookId)
+//         console.log(deleteBook)
+//         return deleteBook
 
+//     } catch(error){
+//         throw error
+//     }
+// }
+// deleteBook("68a9e1b504166310e55326c0")
+
+
+
+// async function deleteBooks(category){
+//     try{
+//         const deleteBook = await BooksData.deleteMany({category: category})
+//         console.log(deleteBook)
+//         return deleteBook
+
+//     } catch(error){
+//         throw error
+//     }
+// }
+// deleteBooks("Young Adult")
 
 
 const PORT = 2000

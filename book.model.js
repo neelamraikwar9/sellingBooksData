@@ -74,9 +74,23 @@ const bookSchema = new mongoose.Schema({
 
     summary : {
         type: String
+    },
+
+    discount : {
+       type : String
+    },
+
+    discountPrice : {
+        type: String
+    },
+
+    salePrice : {
+        type: String
+    },
+
+    deliveryCharges : {
+        type: String
     }
-
-
 },
 {timeStamps: true}
 )
