@@ -90,6 +90,10 @@ const bookSchema = new mongoose.Schema({
 
     deliveryCharges : {
         type: String
+    },
+
+    quantity: {
+        type: String
     }
 },
 {timeStamps: true}

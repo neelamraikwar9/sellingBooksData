@@ -44,6 +44,7 @@ initializeDB();
 //                  discountPrice: bookData.discountPrice,
 //                  salePrice: bookData.salePrice,
 //                  deliveryCharges: bookData.deliveryCharges
+//                  quantity: bookData.quantity
 //             });
 //             console.log(newBook.name)
 //             newBook.save();
