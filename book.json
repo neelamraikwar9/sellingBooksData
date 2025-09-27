@@ -3,7 +3,7 @@
   "name": "The Monk Who Sold His Ferrari",
   "author": "Robin S. Sharma",
   "price": "₹450",
-  "image": "./images/image1.png",
+  "image": ".Public/images/image1.png",
   "category": "Non-Fiction",
   "genre": "Self-Help",
   "rating": "3.8",
